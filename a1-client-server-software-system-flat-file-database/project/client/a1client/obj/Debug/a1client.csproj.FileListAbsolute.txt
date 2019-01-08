@@ -1,0 +1,14 @@
+C:\Users\Rushing\Documents\Relational Databases\a1\client\a1client\a1client\bin\Debug\a1client.exe.config
+C:\Users\Rushing\Documents\Relational Databases\a1\client\a1client\a1client\bin\Debug\a1client.exe
+C:\Users\Rushing\Documents\Relational Databases\a1\client\a1client\a1client\bin\Debug\a1client.pdb
+C:\Users\Rushing\Documents\Relational Databases\a1\client\a1client\a1client\obj\Debug\a1client.csprojAssemblyReference.cache
+C:\Users\Rushing\Documents\Relational Databases\a1\client\a1client\a1client\obj\Debug\a1client.csproj.CoreCompileInputs.cache
+C:\Users\Rushing\Documents\Relational Databases\a1\client\a1client\a1client\obj\Debug\a1client.exe
+C:\Users\Rushing\Documents\Relational Databases\a1\client\a1client\a1client\obj\Debug\a1client.pdb
+C:\Users\Rushing\Documents\Relational Databases\a1\a1\client\a1client\a1client\bin\Debug\a1client.exe.config
+C:\Users\Rushing\Documents\Relational Databases\a1\a1\client\a1client\a1client\bin\Debug\a1client.exe
+C:\Users\Rushing\Documents\Relational Databases\a1\a1\client\a1client\a1client\bin\Debug\a1client.pdb
+C:\Users\Rushing\Documents\Relational Databases\a1\a1\client\a1client\a1client\obj\Debug\a1client.csprojAssemblyReference.cache
+C:\Users\Rushing\Documents\Relational Databases\a1\a1\client\a1client\a1client\obj\Debug\a1client.csproj.CoreCompileInputs.cache
+C:\Users\Rushing\Documents\Relational Databases\a1\a1\client\a1client\a1client\obj\Debug\a1client.exe
+C:\Users\Rushing\Documents\Relational Databases\a1\a1\client\a1client\a1client\obj\Debug\a1client.pdb
