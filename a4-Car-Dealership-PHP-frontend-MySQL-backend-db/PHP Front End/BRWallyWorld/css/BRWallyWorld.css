@@ -1,0 +1,176 @@
+/*
+
+  FILE          : BRWallyWorld.css
+  PROJECT       : PROG2110 - Relational Databases: Assignment #4 - Wally World
+  PROGRAMMER    : Brendan Rushing
+  FIRST VERSION : 2018-12-05
+  DESCRIPTION   :   This project is a web application for a used car dealership called Wally's World
+
+  - This web app uses PHP for serverside communication
+  - The web page is built with HTML and Javascript
+
+  - Wally's World is connected to a MySQL database
+  
+  - Customers can buy, sell and trade in cars
+  - Customers can also be added to the database
+
+  - Order details can be searched and updated.
+
+
+*/
+
+
+
+.headerTopBar
+{
+    background-color:    white;
+}
+
+body
+{
+    background-color:   #f0ecec;
+    min-width: 500px;
+}
+
+.orderDetailsBody
+{
+    background-color:   white;
+    min-width: 500px;
+}
+h1
+{
+    color:             black;
+    font-size:            42px;
+    font-family:        Arial;
+    text-align:         center;
+
+
+
+}
+
+.orderDetailsDiv
+{
+    margin: auto;
+    width: 1000%;
+    background-color: white;
+    vertical-align: middle;
+    text-align: center;
+    min-width: 800px;
+
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.carImages
+{
+    height: 100px;
+    width: 200px;
+}
+
+.vehicleDiv
+{
+    margin: auto;
+    width: 60%;
+    text-align: left;
+    background-color: white;
+    vertical-align: middle;
+    text-align: center;
+    min-width: 800px;
+
+}
+
+.orderConfirmationDiv
+{
+
+    margin: auto;
+    width: 60%;
+    text-align: left;
+    background-color: white;
+    vertical-align: middle;
+    min-width: 600px;
+
+}
+
+
+.vehiclePrice
+{
+     font-family: "Helvetica Neue"; 
+     font-size: 24px; 
+     font-style: normal; 
+     font-variant: normal; 
+     font-weight: 600; 
+     line-height: 24px;
+     color: #CC0000;
+}
+
+.vehicleDealer
+{
+     font-family: "Helvetica Neue"; 
+     font-size: 24px; 
+     font-style: normal; 
+     font-variant: normal; 
+     font-weight: 600; 
+     line-height: 24px;
+     color:black;
+}
+
+
+.vehicleTitle
+{
+     font-family: "Helvetica Neue"; 
+     font-size: 28px; 
+     font-style: normal; 
+     font-variant: normal; 
+     font-weight: 600; 
+     line-height: 15px;
+     color: #0092db;    
+     
+}
+
+.vehicleDetails
+{
+     font-family: "Helvetica Neue"; 
+     font-size: 16px; 
+     font-style: normal; 
+     font-variant: normal; 
+     font-weight: 400; 
+     line-height: 6px;
+     
+}
+
+.buyNowButton
+{
+    background-color: #CC0000;
+    
+    border: none;
+    color: white;
+    padding: 8px 16px;
+
+
+     font-family: "Helvetica Neue"; 
+     font-size: 20px; 
+     font-style: normal; 
+     font-variant: normal; 
+     font-weight: 600; 
+     line-height: 24px;
+     color: white;
+
+     -webkit-transition-duration: 0.4s; /* Safari */
+     transition-duration: 0.4s;
+}
+
+.buyNowButton:hover
+{
+    color: white !important;
+    background-image:none !important;
+    background-color:blue !important;
+    
+}
